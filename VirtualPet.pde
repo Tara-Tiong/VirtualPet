@@ -3,5 +3,11 @@ void setup(){
 }
 
 void draw(){
-  ellipse(100,100,100,100);
+  noFill();
+  strokeWeight(16);
+  beginShape();
+  vertex(150,150);
+  quadraticVertex(200,50,150,150);
+  endShape();
 }
+
