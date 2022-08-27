@@ -4,11 +4,6 @@ void setup(){
 }
 
 void draw(){
-fill(189, 52, 194);
-  strokeWeight(1);
-  stroke(255,255, 255);
-  circle(210, 215, 10);
-  circle(290, 215, 10);
   // colors: 
   strokeWeight(3);
   stroke(87, 71, 55);
