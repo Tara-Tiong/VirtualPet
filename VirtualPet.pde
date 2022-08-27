@@ -83,6 +83,7 @@ void draw(){
   circle(290, 215, 10);
   //snooot :)
   strokeWeight(2);
+  noFill();
   stroke(163, 147, 85);
   curve(200, 210, 235, 200, 235, 240, 200, 220);
   curve(300, 210, 265, 200, 265, 240, 300, 220);
