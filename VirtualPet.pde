@@ -1,5 +1,5 @@
 void setup(){
-  size(900,900);
+  size(500,500);
   background(255, 255, 255);
 }
 
