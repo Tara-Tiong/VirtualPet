@@ -8,7 +8,8 @@ body {
 #content {
     display: block;
     margin-left: auto;
-    margin-right: auto
+    margin-right: auto;
+    size: 700px;
 }
 
 header {
