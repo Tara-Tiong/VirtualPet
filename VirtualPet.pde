@@ -79,7 +79,7 @@ void draw(){
   ellipse(210, 220, 15, 20);
   ellipse(290, 220, 15, 20);
   fill(255, 255, 255);
-  strokeWeight(0.5);
+  strokeWeight(5);
   stroke(255,255, 255);
   line(210, 215, 220, 220);
   line(290, 215, 220, 220);
