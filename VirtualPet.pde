@@ -4,8 +4,6 @@ void setup(){
 }
 
 void draw(){
-fill(0,0,0);
-circle(210, 215, 60);
   // colors: 
   strokeWeight(3);
   stroke(87, 71, 55);
