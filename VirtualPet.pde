@@ -4,7 +4,6 @@ void setup(){
 }
 
 void draw(){
-  hint(ENABLE_STROKE_PURE);
   // colors: 
   strokeWeight(3);
   stroke(87, 71, 55);
