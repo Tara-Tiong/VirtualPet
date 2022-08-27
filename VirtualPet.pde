@@ -81,6 +81,6 @@ void draw(){
   fill(255, 255, 255);
   strokeWeight(5);
   stroke(255,255, 255);
-  circle(210, 215, 10);
-  circle(290, 215, 10);
+  ellipse(210, 215, 10, 10);
+  ellipse(290, 215, 10, 10);
 }
